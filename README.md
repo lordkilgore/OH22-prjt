@@ -1,6 +1,6 @@
 # OH22-prjt
 
-IDEA: Extension that gives information on Amazon purchases and returns information on the sustainability of the business practices of the manufacturer to help consumers make more environmentally responsible purchases. Also tracks carbon emission via miles driven and energy usage via [tk]
+IDEA: App that provides alternatives for sustainability.
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?

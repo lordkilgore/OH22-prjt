@@ -1,6 +1,6 @@
 # OH22-prjt
 
-IDEA: Chrome extension that will analyze products on Amazon, gives information on company and manufacturing process and rates them on a scale from 1 to 5 based on their environmental sustainability. 
+IDEA: Web-app that allows user to submit receipts (physical or digital), identifies manufacturers of the product, returns a rating from 1 to 5 based on the environmental sustainability of their business practices, and gives a badge/point/achievement to the user's profile if that purchase was sustainable. 
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?

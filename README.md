@@ -4,20 +4,20 @@ IDEA:
 1. 
 
 
-Scalability
-Does the product reach a wide variety of people?
+**Scalability**
+*Does the product reach a wide variety of people?*
 
-Innovation
-How can you revolutionize an industry?
+**Innovation**
+*How can you revolutionize an industry?*
 
-Feasibility
-Can the product be implemented and understood easily?
+**Feasibility**
+*Can the product be implemented and understood easily?*
 
-Technicality
-Is there some semblance of a finished product?
+**Technicality**
+*Is there some semblance of a finished product?*
 
-Delivery
-How effectively can you communicate the problem and the solution?
+**Delivery**
+*How effectively can you communicate the problem and the solution?*
 
 
 

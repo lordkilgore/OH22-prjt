@@ -1,7 +1,6 @@
 # OH22-prjt
 
 IDEA:
-1. 
 
 
 **Scalability**

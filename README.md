@@ -1,6 +1,6 @@
 # OH22-prjt
 
-IDEA: []
+IDEA: App that scans barcode, gives information on company and manufacturing process and rates them on a scale from 1 to 5. 
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?

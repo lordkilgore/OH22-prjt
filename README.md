@@ -21,6 +21,10 @@ IDEA: Web-app that allows user to submit receipts (physical or digital), identif
 **Delivery**
 *How effectively can you communicate the problem and the solution?*
 
+1. Makes Webapp [Front-end] - Pranav, Arjun
+2. Develops Web Scraping [Back-end] - Phoenix
+3. Conceptual Art/Idea - Pranav, Arjun
+4. Marketing, Business Model - Ranjan
 
 
 

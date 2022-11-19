@@ -1,10 +1,12 @@
 # OH22-prjt
 
-IDEA: Extension that gives information on Amazon purchases and returns information on the sustainability of the business practices of the manufacturer to help consumers make more environmentally responsible purchases.
+IDEA: Extension that gives information on Amazon purchases and returns information on the sustainability of the business practices of the manufacturer to help consumers make more environmentally responsible purchases. Also tracks carbon emmission via miles driven and energy usage via  
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?
 - How can we encourage behaviors with concrete impact, not “greenwashing”?
+- asd
+- energy grid, uses 100% renewable energy to, MCE look into how they increase sustainability practices and how to better 
 
 **Scalability**
 *Does the product reach a wide variety of people?*
@@ -21,10 +23,10 @@ IDEA: Extension that gives information on Amazon purchases and returns informati
 **Delivery**
 *How effectively can you communicate the problem and the solution?*
 
-1. Makes Webapp [Front-end] - Pranav, Arjun
-2. Develops Web Scraping [Back-end] - Phoenix
-3. Conceptual Art/Idea - Pranav, Arjun
-4. Marketing, Business Model - Ranjan
+1. Look into how to make extension - Pranav, Arjun, Phoenix
+	a. Backend (feedback reports on amazon pages) - 
+	b. Frontend (GUI) - 
+2. Concept Art, Business Plan, Logo, Name - Ranjan
 
 
 

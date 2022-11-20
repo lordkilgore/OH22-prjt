@@ -1,6 +1,6 @@
 # OH22-prjt
 
-IDEA: App that provides alternatives for sustainability.
+IDEA: App that utilizes computer vision to identify user-inputted objects, and recommend ways to upcycle them.
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?

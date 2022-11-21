@@ -1,6 +1,8 @@
 # OH22-prjt
 
 IDEA: App that utilizes computer vision to identify user-inputted objects, and recommend ways to upcycle them.
+
+
 - How can we incentivize sustainable habits?
 - How can we spread awareness about sustainability?
 - How can we monitor our own habits/behaviors?
@@ -21,10 +23,6 @@ IDEA: App that utilizes computer vision to identify user-inputted objects, and r
 **Delivery**
 *How effectively can you communicate the problem and the solution?*
 
-1. Look into how to make extension - Pranav, Arjun, Phoenix
-	a. Backend (feedback reports on amazon pages) - 
-	b. Frontend (GUI) - 
-2. Concept Art, Business Plan, Logo, Name - Ranjan
 
 
 

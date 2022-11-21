@@ -1,4 +1,4 @@
-# Proof of Concept for Simplifying Sustainability
+# Proof of Concept for Upcycler
 An app that utilizes *computer vision* to identify user-inputted objects, and recommend ways to **upcycle and recycle** them.
 
 ## Business model
@@ -13,6 +13,6 @@ An app that utilizes *computer vision* to identify user-inputted objects, and re
 Currently, development is paused for this project. We aim to continue development once a framework is established. App functionality will be primarily written in *React Native*, with **computer vision** code being written using *OpenCV*.
 
 ## Goals, and the future
-Our dream for *Simplifying Sustainability* is to provide an **easy-to-use, accessible, and convenient** way for people to make use of what is around them. We hope that with this project we can contribute to sustainability by making things like **upcycling and recycling** less obscure to a larger amount of people. 
+Our dream for *Upcycler* is to provide an **easy-to-use, accessible, and convenient** way for people to make use of what is around them. We hope that with this project we can contribute to sustainability by making things like **upcycling and recycling** less obscure to a larger amount of people. 
 
 *In a society that grows more plastic by the day, we believe that our app will not only make sustainability more accessible, but more achievable.*

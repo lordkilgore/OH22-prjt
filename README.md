@@ -1,6 +1,6 @@
 # OH22-prjt
 
-IDEA: App that utilizes computer vision to identify user-inputted objects, and recommend ways to upcycle them.
+IDEA: App that utilizes computer vision to identify user-inputted objects, and recommend ways to upcycle and recycle them.
 
 
 - How can we incentivize sustainable habits?
